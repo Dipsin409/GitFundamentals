@@ -1,0 +1,101 @@
+/*
+Border shorthand looks like this:
+p{
+    border: 5px solid red;
+}
+
+The order is: border-width border-style(required) border-color
+*/
+
+body{
+    background-color : lightblue;
+    }
+
+    .wrapper{
+    margin: 5px;
+    }
+
+    hl{
+    text-align: center;
+    }
+
+    #title-p{
+    text-align: center;
+    }
+
+    /* 3 */
+    .border-style li{ margin: 5px;
+    }
+
+    .border-style li:nth-child(l){
+        border-style : dotted;
+    }
+
+    .border-style li:nth-child(2){
+        border-style : dashed;
+    }
+
+    .border-style li:nth-child(3){
+         border-style : solid;
+    }
+
+    .boarder-style li:nth-child(4){
+        boarder-style: double;
+}
+    .boarder-style li:nth-child(5){
+        boarder-style: grove;
+}
+
+    .boarder-style li:nth-child(6){
+        boarder-style: ridge;
+}
+
+    .boarder-style li:nth-child(7){
+        boarder-style: none;
+}
+    .boarder-style li:nth-child(8){
+        boarder-style: hidden;
+}
+
+    .boarder-style li:nth-child(9){
+        boarder-style: hidden;
+}
+
+    .boarderstyle li:nth-child(10)
+        boarder-style: dotted dashed solid double;
+}
+
+/* 5 */
+.border-width p{
+    border-style;
+    border-width;
+    >
+#four-widths{
+    border-style;
+    border-width;
+}
+
+/* 7 */
+.border-color li:nth-child(1{
+    margin: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.border-color li:nth-child(2){
+    margin: 5px;
+    border-style: solid;
+    boarder-color: #eee;
+}
+
+.boarder-color li:nth-child(3){
+    margin: 5px;
+    boarder-style: solid;
+    border-color: rgb(100,0,100);
+}
+
+.boarder-color li:nth-child(4){
+    margin: 5pm;
+    boarder-style: solid;
+    boarder-color: transparent;
+}

@@ -1,0 +1,27 @@
+.wrapper{
+    margin: 5px;
+}
+
+    /* 3 */ hl{
+    text-align: center;
+}
+
+    /*this sets the background color of the entire body*/ body{
+    background-color : lightgray;
+}
+
+    /* 4 */
+    .backgroundl{
+    background-color : lightblue;
+}
+
+    /* 5 */
+    .background2{
+        background-image :url("../3-assets/upfeathers.png"
+}
+
+    /* 7 */ table, th, td{
+    border: lpx solid black;
+}
+    
+    
